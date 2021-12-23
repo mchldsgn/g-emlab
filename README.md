@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @g-emlab (gem lab)
+- 👋 Hi, I’m Gaelle M. (g-em)
 - 👀 I’m interested in art + design
 - 🌱 I’m currently learning the basics!
-- 💞️ I’m looking to collaborate on e-commerce web designs.
-- 📫 Let's connect---> gsmichel0@gmail.com
+- 📫 See more----> here!
+
 
 <!---
 g-emlab/g-emlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
