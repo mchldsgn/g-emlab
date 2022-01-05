@@ -1,7 +1,6 @@
 - 👋 Hey
 - 👀 I’m interested in art + design
 - 🌱 I’m currently learning the basics!
-- 📫 See more----> here!
 
 
 <!---
