@@ -42,7 +42,7 @@ body {
     .main-nav li {
         list-style-type: none;
         text-transform: uppercase;
-        padding-right: 30px;
+        padding-right: 50px;
     }
 
     .main-nav li a {
